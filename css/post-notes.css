@@ -1,0 +1,7 @@
+.post_notes_controls { overflow:hidden; padding:15px 0 6px 0; width:80%; }
+.post_notes_textfield { width:95px; float:left; }
+.post_notes_textfield label { display:block; float:left; width:43px; padding:8px 0 0 0; }
+.post_notes_textfield input { display:block; float:left; width:35px; }
+.post_notes_controls p { width:70%; float:left; }
+.post_notes_controls a.post_note_duplicate { display:block; width:auto; float:left; }
+.post_notes_controls a.post_note_delete { display:block; width:auto; float:right; }
